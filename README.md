@@ -38,4 +38,4 @@ I’m open to feedback and suggestions to improve the website further. Feel free
 
 ### OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/2fede6a5-6825-4679-951b-a11ecdb0ba7b)
