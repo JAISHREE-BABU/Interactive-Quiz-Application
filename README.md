@@ -1,4 +1,4 @@
-### INTERACTIVE QUIZ APPLICATION
+#### INTERACTIVE QUIZ APPLICATION
 
 This is a simple Interactive Quiz Application built using HTML, CSS, and JavaScript. The application dynamically generates quiz questions and provides instant feedback on answers.
 
