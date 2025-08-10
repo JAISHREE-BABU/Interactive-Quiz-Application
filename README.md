@@ -1,18 +1,4 @@
-# Interactive-Quiz-Application
-
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: JAISHREE P B
-
-INTERN ID: CT08NUR
-
-DOMAIN: FRONT END DEVELOPMENT
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTOSH
-
-### INTERACTIVE QUIZ APPLICATION - INTERNSHIP TASK
+### INTERACTIVE QUIZ APPLICATION
 
 This is a simple Interactive Quiz Application built using HTML, CSS, and JavaScript. The application dynamically generates quiz questions and provides instant feedback on answers.
 
